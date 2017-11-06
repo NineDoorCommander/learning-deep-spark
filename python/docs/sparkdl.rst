@@ -1,19 +1,21 @@
 sparkdl package
 ===============
 
-Subpackages
------------
+Submodule Functions & Classes
+------------------------------
 
-.. toctree::
+.. automodule :: sparkdl.udf.keras_image_model
+    :members:
+    :undoc-members:
+    :show-inheritance:
 
-    sparkdl.graph
-    sparkdl.image
-    sparkdl.transformers
-    sparkdl.udf
-    sparkdl.utils
+.. automodule :: sparkdl.estimators.keras_image_file_estimator
+    :members:
+    :undoc-members:
+    :show-inheritance:
 
-Module contents
----------------
+sparkdl Module Contents
+-------------------------
 
 .. automodule:: sparkdl
     :members:
